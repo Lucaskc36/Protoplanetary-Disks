@@ -3,7 +3,9 @@ These are animations using the python library manim is meant to help describe Pl
 
 ## Inventory
 
-![](dragEQ.mp4)
+<video width="1920" height="" controls>
+  <source src="dragEQ.mp4" type="video/mp4">
+</video>
 
 ### Compiling video
 Compiler Tags:
