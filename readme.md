@@ -10,6 +10,8 @@ Below is an embedded video demonstrating one of the animations on planetary form
   <source src="dragEQ.mp4" type="video/mp4">
 </video>
 
+[View Animation: dragEQ.mp4](./dragEQ.mp4)
+
 ## Compiling Videos
 To render the animations, you can use the following compiler tags for quality control:
 
