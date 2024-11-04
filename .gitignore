@@ -1,0 +1,13 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore media folder (generated content)
+media/
+
+# Ignore Manim temporary files (if any)
+*.temp
+*.partial_movie_files/
+
+# Optional: Ignore virtual environment files
+venv/
+.env/
